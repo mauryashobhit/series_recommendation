@@ -10,3 +10,7 @@ series_recommendation
  
  
  recommending 10 series for a given series index
+
+
+
+![image](https://user-images.githubusercontent.com/62472111/158754568-803979b7-baa7-42ed-9fd0-510f7d2862e1.png)
